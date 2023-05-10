@@ -1,0 +1,133 @@
+.whloe_img{
+	width:750px;
+	height: 450px;
+	float: left;
+	margin-left: 5%;
+/*	background: green;*/
+}
+
+.left_bar{
+	float: left;
+	margin-left: 950px;
+	margin-top: -450px;
+	width:400px;
+	height:550px;
+/*	background-color: green;*/
+}
+.p11{
+	display: inline-block;
+	/*float: left;
+	margin-top:0px;*/
+	padding-left:140px;
+	font-size: 25px;
+	font-family: cursive;
+}
+.left_bar img{
+	width:320px; 
+	height:200px;
+/*	background-color:yellow ;*/
+	margin-top:15px ;
+	margin-left:35px ;
+}
+.bar{
+	float: left;
+	width: 900px;
+    height: 56px;
+/*  background-color:green ;*/
+    margin-top: -110px;}
+.bar_ul{
+    list-style-type: none;
+    padding: 0px;
+    float: right;
+    position: absolute;
+/*  margin-left: 195px;*/
+   	margin-top: 00px;  	
+}
+.bar_ul li {
+    width: 200px;
+    height: 56px;
+    text-align: center;
+    float: left;
+}
+.bar_ul li a {
+    color: #848789;
+    text-decoration: none;
+    line-height: 56px;
+}
+
+.left_bar1{
+	float: left;
+	margin-left: 950px;
+	margin-top: -75px;
+	width:400px;
+	height:280px;
+/*	background-color: green;*/
+}
+.left_bar1 img{
+	width:320px; 
+	height:200px;
+/*	background-color:yellow ;*/
+	margin-top:15px ;
+	margin-left:35px ;
+}
+.p12{
+	display: inline-block;
+	/*float: left;
+	margin-top:0px;*/
+	padding-left:112px;
+	font-size: 25px;
+	font-family: cursive;
+	color:black;
+}
+.left_bar2{
+	float: left;
+	margin-left: 950px;
+	margin-top: -25px;
+	width:400px;
+	height:260px;
+/*	background-color: green;*/
+}
+.left_bar2 img{
+	width:320px; 
+	height:200px;
+/*	background-color:yellow ;*/
+	margin-top:15px ;
+	margin-left:35px ;
+}
+.p13{
+	display: inline-block;
+	/*float: left;
+	margin-top:0px;*/
+	padding-left:165px;
+	font-size: 25px;
+	font-family: cursive;
+	color:black;
+}
+
+.bar_e{
+	float: left;
+	width: 1200px;
+    height: 56px;
+/*    background-color:green ;*/
+    margin-top: 0px;
+    margin-left:0px;
+}
+.bar_ul_e{
+    list-style-type: none;
+    padding: 0px;
+    float: right;
+    position: absolute;
+/*   	margin-left: 195px;*/
+   	margin-top: 00px;  	
+}
+.bar_ul_e li {
+    width: 400px;
+    height: 56px;
+    text-align: center;
+    float: left;
+}
+.bar_ul_e li a {
+    color: #848789;
+    text-decoration: none;
+    line-height: 56px;
+}
